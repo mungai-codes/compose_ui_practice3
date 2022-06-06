@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBusiness Card</string>
+    <string name="username">Moses Mungai Kabea</string>
+    <string name="rank">Android Developer Extraordinaire</string>
+    <string name="phone_number">+254 * *** *** **</string>
+    <string name="twitter_username">\@_mmungai</string>
+    <string name="email_address">kabea******@gmail.com</string>
+</resources>
